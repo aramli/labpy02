@@ -25,7 +25,7 @@ KELAS   : TI.25 C.5
 
 # Latihan Struktur Kondisi
 
-<h2 style='font-weight:bold;'>Latihan 1</h2>
+<h3 style='font-weight:bold;'>Latihan 1</h3>
 <ul>
   <ul>
 <li><h3 style='font-weight:bold;'>Program</h3></li>
