@@ -24,5 +24,20 @@ KELAS   : TI.25 C.5
 
 
 # Latihan Struktur Kondisi
-<li>Latihan 1</li>
+
+<h3 style='font-weight:bold;'>Latihan 1</h3>
+<li><h3 style='font-weight:bold;'>Program</h3></li>
+<img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/1.png" width="300" style="border: 2px solid black;"/>
+<li><h3 style='font-weight:bold;'>Hasil Program</h3></li>
+<img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/2.png" width="300" style="border: 2px solid black;"/>
+<img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/3.png" width="300" style="border: 2px solid black;"/>
+<img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/4.png" width="300" style="border: 2px solid black;"/>
+<img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/5.png" width="300" style="border: 2px solid black;"/>
+<img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/6.png" width="300" style="border: 2px solid black;"/>
+<img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/7.png" width="300" style="border: 2px solid black;"/>
+<img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/8.png" width="300" style="border: 2px solid black;"/>
+
+
+
+
 
