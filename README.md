@@ -25,7 +25,9 @@ KELAS   : TI.25 C.5
 
 # Latihan Struktur Kondisi
 
-<h3 style='font-weight:bold;'>Latihan 1</h3>
+<h2 style='font-weight:bold;'>Latihan 1</h2>
+<ul>
+  <ul>
 <li><h3 style='font-weight:bold;'>Program</h3></li>
 <img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/1.png" width="400" style="border: 2px solid black;"/>
 <li><h3 style='font-weight:bold;'>Hasil Program</h3></li>
@@ -38,7 +40,8 @@ KELAS   : TI.25 C.5
 <img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/6.png" width="500" style="border: 2px solid black;"/>
 <img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/7.png" width="500" style="border: 2px solid black;"/>
 <img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/8.png" width="500" style="border: 2px solid black;"/>
-
+</ul>
+</ul>
 
 
 
