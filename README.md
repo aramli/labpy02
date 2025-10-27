@@ -11,7 +11,15 @@ KELAS   : TI.25 C.5
     <h6>1. Latihan 1<h6>
     <h6>2. Latihan 2</h6>
   <li><h5>Latihan Looping</h5></li>
+    <h6>1. Latihan 1<h6>
+    <h6>2. Latihan 2</h6>
   <li><h5>Latihan Praktikum 2</h5></li>
+    <h6>1. Latihan 1<h6>
+    <h6>2. Latihan 2</h6>
   <li><h5>Program Bioskop</h5></li>
+    <h6>1. Flowcahart<h6>
+    <h6>2. Kode Program</h6>
   <li><h5>Program Kalkulator</h5></li>
+       <h6>1. Flowcahart<h6>
+    <h6>2. Kode Program</h6>
 </ul>
