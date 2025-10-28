@@ -137,8 +137,34 @@ KELAS   : TI.25 C.5
 <ul>
 <ul>
   <li><h3 style='font-weight:bold;'>Latihan 1</h3></li>
+  <img src="https://github.com/aramli/labpy02/raw/main/img/1.png" width="400" style="border: 2px solid black;"/>
   <li><h3 style='font-weight:bold;'>Program</h3></li>
+  <img src="https://github.com/aramli/labpy02/raw/main/img/2.png" width="400" style="border: 2px solid black;"/>
   <li><h3 style='font-weight:bold;'>Penjelasan Kode</h3></li>
+
+  <img src="https://github.com/aramli/labpy02/raw/main/perulangan/img/3.png" width="700" style="border: 2px solid black;"/><br>
+  1. For berfungsi sebagai perulangan sebanyak 10 kali (dari baris = 0 hingga baris = 9).Setiap iterasi mewakili satu baris dalam output.<br><br>
+  
+  <img src="https://github.com/aramli/labpy02/raw/main/perulangan/img/4.png" width="700" style="border: 2px solid black;"/><br>
+  1. For berfungsi sebagai perulangan sebanyak 10 kali (dari baris = 0 hingga baris = 9).Setiap iterasi mewakili satu baris dalam output.<br><br>
+  
+  <img src="https://github.com/aramli/labpy02/raw/main/perulangan/img/5.png" width="700" style="border: 2px solid black;"/><br>
+  1. For berfungsi sebagai perulangan sebanyak 10 kali (dari baris = 0 hingga baris = 9).Setiap iterasi mewakili satu baris dalam output.<br><br>
+  
+  <img src="https://github.com/aramli/labpy02/raw/main/perulangan/img/6.png" width="700" style="border: 2px solid black;"/><br>
+  1. For berfungsi sebagai perulangan sebanyak 10 kali (dari baris = 0 hingga baris = 9).Setiap iterasi mewakili satu baris dalam output.<br><br>
+  
+  <img src="https://github.com/aramli/labpy02/raw/main/perulangan/img/3.png" width="700" style="border: 2px solid black;"/><br>
+  1. For berfungsi sebagai perulangan sebanyak 10 kali (dari baris = 0 hingga baris = 9).Setiap iterasi mewakili satu baris dalam output.<br><br>
+  
+  <img src="https://github.com/aramli/labpy02/raw/main/perulangan/img/3.png" width="700" style="border: 2px solid black;"/><br>
+  1. For berfungsi sebagai perulangan sebanyak 10 kali (dari baris = 0 hingga baris = 9).Setiap iterasi mewakili satu baris dalam output.<br><br>
+  
+  <img src="https://github.com/aramli/labpy02/raw/main/perulangan/img/3.png" width="700" style="border: 2px solid black;"/><br>
+  1. For berfungsi sebagai perulangan sebanyak 10 kali (dari baris = 0 hingga baris = 9).Setiap iterasi mewakili satu baris dalam output.<br><br>
+
+  
+  
 </ul>
 </ul>
 <ul>
