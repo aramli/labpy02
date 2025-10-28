@@ -157,7 +157,7 @@ KELAS   : TI.25 C.5
   <img src="https://github.com/aramli/labpy02/raw/main/img/6.png" width="700" style="border: 2px solid black;"/><br>
   4. Berfungsi sebagai pengondisian untuk nilai huruf <br><br>
 
-  <img src="https://github.com/aramli/labpy02/raw/main/img/7.png" width="700" style="border: 2px solid black;"/><br>
+  <img src="https://github.com/aramli/labpy02/raw/main/img/6.png" width="700" style="border: 2px solid black;"/><br>
   5. Berfungsi untuk Menampilkan semua data hasil perhitungan ke layar.<br><br>
   
 </ul>
@@ -167,34 +167,34 @@ KELAS   : TI.25 C.5
 <ul>
 <ul>
   <li><h3 style='font-weight:bold;'>Program</h3></li>
-  <img src="https://github.com/aramli/labpy02/raw/main/img/8.png" width="400" style="border: 2px solid black;"/>
+  <img src="https://github.com/aramli/labpy02/raw/main/img/7.png" width="400" style="border: 2px solid black;"/>
   <li><h3 style='font-weight:bold;'>Hasil Program</h3></li>
-  <img src="https://github.com/aramli/labpy02/raw/main/img/9.png" width="400" style="border: 2px solid black;"/>
+  <img src="https://github.com/aramli/labpy02/raw/main/img/8.png" width="400" style="border: 2px solid black;"/>
   
   <li><h3 style='font-weight:bold;'>Penjelasan Kode</h3></li>
-  <img src="https://github.com/aramli/labpy02/raw/main/img/10.png" width="700" style="border: 2px solid black;"/><br>
+  <img src="https://github.com/aramli/labpy02/raw/main/img/9.png" width="700" style="border: 2px solid black;"/><br>
   1. Meminta pengguna memasukkan jumlah gaji.Kode input() mengambil data sebagai string, lalu int() mengubahnya menjadi bilangan bulat.<br><br>
   
-  <img src="https://github.com/aramli/labpy02/raw/main/img/11.png" width="700" style="border: 2px solid black;"/><br>
+  <img src="https://github.com/aramli/labpy02/raw/main/img/10.png" width="700" style="border: 2px solid black;"/><br>
   2. Menanyakan apakah sudah berkeluarga. Jika pengguna menjawab "Y", maka berkeluarga = True. Jika menjawab selain "Y" (misalnya "T"), maka berkeluarga = False.
 <br><br>
+  
+  <img src="https://github.com/aramli/labpy02/raw/main/img/11.png" width="700" style="border: 2px solid black;"/><br>
+  3. Menanyakan apakah mempunyai rumah. Jika pengguna menjawab "Y", maka punya_rumah = True. Jika menjawab selain "Y" (misalnya "T"), punya_rumah = False.<br><br>
   
   <img src="https://github.com/aramli/labpy02/raw/main/img/12.png" width="700" style="border: 2px solid black;"/><br>
   3. Menanyakan apakah mempunyai rumah. Jika pengguna menjawab "Y", maka punya_rumah = True. Jika menjawab selain "Y" (misalnya "T"), punya_rumah = False.<br><br>
   
   <img src="https://github.com/aramli/labpy02/raw/main/img/13.png" width="700" style="border: 2px solid black;"/><br>
-  3. Menanyakan apakah mempunyai rumah. Jika pengguna menjawab "Y", maka punya_rumah = True. Jika menjawab selain "Y" (misalnya "T"), punya_rumah = False.<br><br>
-  
-  <img src="https://github.com/aramli/labpy02/raw/main/img/14.png" width="700" style="border: 2px solid black;"/><br>
   4. Pengondisian jika gaji lebih dari 3jt maka dianggap diatas UMR<br><br>
   
-  <img src="https://github.com/aramli/labpy02/raw/main/img/15.png" width="700" style="border: 2px solid black;"/><br>
+  <img src="https://github.com/aramli/labpy02/raw/main/img/14.png" width="700" style="border: 2px solid black;"/><br>
   5. Kemudian kondisi selanjutnya untuk menentukan bila bekerluarga maka wajib ikut asurasi, jika belum maka tidak perlu ikut asurasi. <br><br>
   
-  <img src="https://github.com/aramli/labpy02/raw/main/img/16.png" width="700" style="border: 2px solid black;"/><br>
+  <img src="https://github.com/aramli/labpy02/raw/main/img/15.png" width="700" style="border: 2px solid black;"/><br>
   6. Kemudian kondisi selanjutnya untuk mempunyai rumah atau tidak, jika punya maka wajib bayar pajak, jika tidak maka tidak perlu bayar pajak<br><br>
 
-  <img src="https://github.com/aramli/labpy02/raw/main/img/17.png" width="700" style="border: 2px solid black;"/><br>
+  <img src="https://github.com/aramli/labpy02/raw/main/img/16.png" width="700" style="border: 2px solid black;"/><br>
   7. Jika gaji di bawah 3jt atau sama dengan 3jt maka dianggap belum UMR<br><br>
   
 </ul>
