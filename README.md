@@ -202,8 +202,25 @@ KELAS   : TI.25 C.5
 <ul>
   <li><h3 style='font-weight:bold;'>Flowcahrt</h3></li>
   <li><h3 style='font-weight:bold;'>Program</h3></li>
+  <img src="https://github.com/aramli/labpy02/raw/main/img/26.png" width="400" style="border: 2px solid black;"/>
   <li><h3 style='font-weight:bold;'>Hasil Program</h3></li>
+  <img src="https://github.com/aramli/labpy02/raw/main/img/27.png" width="400" style="border: 2px solid black;"/>
   <li><h3 style='font-weight:bold;'>Penjelasan Kode</h3></li>
+  <img src="https://github.com/aramli/labpy02/raw/main/img/28.png" width="700" style="border: 2px solid black;"/><br>
+  1. Menetapkan harga ke 2 tiket pada variable T_VIP dan T_REG. Kemudian menampilkan judul program dan infromasi harga tiket<br><br>
+
+  <img src="https://github.com/aramli/labpy02/raw/main/img/29.png" width="700" style="border: 2px solid black;"/><br>
+  2. Meminta pengguna untuk menginputkan pilihan tiket. code upper berfunsgi untuk Uppercase atau merubah menjadi kapital untuk memastikan inputan konsisten saat di bandingkan. Juga menanyakan apakan pengguna memiliki member, jika punya member = true jika tidak member = false. Selanjutnya menanyakan berapa tiket yang akan di beli, dimana hasil inputan masuk ke variabel 'jumlah'. Tidak lupa inputan di rubah type datanya menjadi int() agar dapat di hitung<br><br>
+
+  <img src="https://github.com/aramli/labpy02/raw/main/img/30.png" width="700" style="border: 2px solid black;"/><br>
+  3. Mengunakan oprator tenary untuk menentukan harga tiker berdasarkan pilihan yang sudah di inputkan pengguna sebelumnya . Det berfunsi untuk menyimpan hasil detail tiket yang di pilih yang mana nanati nya akan di tampilkan di akhir program<br><br>
+
+  <img src="https://github.com/aramli/labpy02/raw/main/img/31.png" width="700" style="border: 2px solid black;"/><br>
+  4. Selanjutnya adalah hitungan diskon dan harga total dimana jika pengguna adalah member maka mendapatkan potongan harga tiket sebesar 20%.<br><br>
+
+  <img src="https://github.com/aramli/labpy02/raw/main/img/32.png" width="700" style="border: 2px solid black;"/><br>
+  5. Terakhir adalah menampikan jenis tiket , jumlah tiket, dan total yang harus di bayar<br><br>
+  
 </ul>
 </ul>
 <ul>
@@ -225,7 +242,7 @@ KELAS   : TI.25 C.5
   2. Menampilkan opsi operasi yang akan digunakan dengan string multi line. kemudian meminta pengguna untuk menginputkan pilihan operasi dengan pilihan 1-4<br><br>
 
    <img src="https://github.com/aramli/labpy02/raw/main/img/25.png" width="700" style="border: 2px solid black;"/><br>
-  3. Pengondisian untuk pengechekan operator apa yang di pilih kemudian meng eksekusi sesuai operator pilihan nya. lalu menampilkan hasil dari operasi tersebut<br><br>
+  3. Pengondisian untuk pengechekan operator apa yang di pilih. kemudian eksekusi bilangan sesuai operator pilihan nya. lalu value di simpan di variable 'hasil'. apabila memilih bukan 1-4 maka akan langsung menampilkan 'operasi belum di pilih'. kemudian menampilkan value dari hasil di akhir<br><br>
 </ul>
 </ul>
 
