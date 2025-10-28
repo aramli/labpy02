@@ -105,17 +105,6 @@ KELAS   : TI.25 C.5
   <img src="https://github.com/aramli/labpy02/raw/main/perulangan/img/6.png" width="700" style="border: 2px solid black;"/><br>
   4. Setelah mencetak 10 angka, pindah ke baris baru agar tampilan rapi.<br><br>
 
-  
-</ul>
-</ul>
-<li><h3 style='font-weight:bold;'>Latihan 2</h3></li>
-<ul>
-<ul>
-  <li><h3 style='font-weight:bold;'>Latihan 2</h3></li>
-  <li><h3 style='font-weight:bold;'>Program</h3></li>
-  <li><h3 style='font-weight:bold;'>Penjelasan Kode</h3></li>
-</ul>
-</ul>
 
 # Latihan Praktikum 2
 <li><h3 style='font-weight:bold;'>Latihan 1</h3></li>
@@ -201,6 +190,7 @@ KELAS   : TI.25 C.5
 <ul>
 <ul>
   <li><h3 style='font-weight:bold;'>Flowcahrt</h3></li>
+   <img src="https://github.com/aramli/labpy02/raw/main/flowchart2.png" width="400" style="border: 2px solid black;"/>
   <li><h3 style='font-weight:bold;'>Program</h3></li>
   <img src="https://github.com/aramli/labpy02/raw/main/img/26.png" width="400" style="border: 2px solid black;"/>
   <li><h3 style='font-weight:bold;'>Hasil Program</h3></li>
@@ -229,6 +219,7 @@ KELAS   : TI.25 C.5
 <ul>
 <ul>
   <li><h3 style='font-weight:bold;'>Flowcahrt</h3></li>
+  <img src="https://github.com/aramli/labpy02/raw/main/flowchart1.png" width="400" style="border: 2px solid black;"/>
   <li><h3 style='font-weight:bold;'>Program</h3></li>
   <img src="https://github.com/aramli/labpy02/raw/main/img/21.png" width="400" style="border: 2px solid black;"/>
   <li><h3 style='font-weight:bold;'>Hasil Program</h3></li>
