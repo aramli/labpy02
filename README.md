@@ -206,14 +206,6 @@ KELAS   : TI.25 C.5
   <li><h3 style='font-weight:bold;'>Latihan 1</h3></li>
   <li><h3 style='font-weight:bold;'>Program</h3></li>
   <li><h3 style='font-weight:bold;'>Penjelasan Kode</h3></li>
-  <img src="https://github.com/aramli/labpy02/raw/main/img/3.png" width="700" style="border: 2px solid black;"/><br>
-  1. Berfungsi sebagai inputan pengguna yang di simpan dalam beberapa variabel<br><br>
-  
-  <img src="https://github.com/aramli/labpy02/raw/main/img/3.png" width="700" style="border: 2px solid black;"/><br>
-  1. Berfungsi untuk mengakumulasi nilai berdasarkan bobotnya. nilai dari setiap variabel di ubah type nya menjadi integer oleh 'int()'<br><br>
-  
-  <img src="https://github.com/aramli/labpy02/raw/main/img/3.png" width="700" style="border: 2px solid black;"/><br>
-  1. For berfungsi sebagai perulangan sebanyak 10 kali (dari baris = 0 hingga baris = 9).Setiap iterasi mewakili satu baris dalam output.<br><br>
 </ul>
 </ul>
 
