@@ -35,22 +35,22 @@ KELAS   : TI.25 C.5
     
 <li><h3 style='font-weight:bold;'>Penjelasan Kode</h3></li>
 <img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/3.png" width="700" style="border: 2px solid black;"/><br>
-1. Menampilkan judul program ke layar.<br>
+1. Menampilkan judul program ke layar.<br><br>
 
 <img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/4.png" width="700" style="border: 2px solid black;"/><br>
-2. Meminta pengguna memasukkan 4 bilangan satu per satu. int() digunakan untuk mengubah input dari teks menjadi angka bulat.<br>
+2. Meminta pengguna memasukkan 4 bilangan satu per satu. int() digunakan untuk mengubah input dari teks menjadi angka bulat.<br><br>
 
 <img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/5.png" width="700" style="border: 2px solid black;"/><br>
-3. Mengecek apakah bilangan pertama (satu) lebih besar atau sama dengan semua bilangan lainnya.Jika benar maka isi variable "terbesar dengan bilangan pertama(satu)<br>
+3. Mengecek apakah bilangan pertama (satu) lebih besar atau sama dengan semua bilangan lainnya.Jika benar maka isi variable "terbesar dengan bilangan pertama(satu)<br><br>
 
 <img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/6.png" width="700" style="border: 2px solid black;"/><br>
-4. Jika kondisi pertama salah, cek apakah bilangan kedua (dua) yang paling besar.Jika benar maka isi variable "terbesar dengan bilangan kedua(dua)<br>
+4. Jika kondisi pertama salah, cek apakah bilangan kedua (dua) yang paling besar.Jika benar maka isi variable "terbesar dengan bilangan kedua(dua)<br><br>
 
 <img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/9.png" width="700" style="border: 2px solid black;"/><br>
-5. Jika dua juga bukan yang terbesar, cek apakah bilangan ketiga (tiga) yang paling besar.Jika benar maka isi variable "terbesar dengan bilangan ketiga(tiga)<br>
+5. Jika dua juga bukan yang terbesar, cek apakah bilangan ketiga (tiga) yang paling besar.Jika benar maka isi variable "terbesar dengan bilangan ketiga(tiga)<br><br>
 
 <img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/7.png" width="700" style="border: 2px solid black;"/><br>
-6. Jika semua kondisi di atas salah, berarti bilangan keempat (empat) yang paling besar.Jika benar maka isi variable "terbesar dengan bilangan keempat(empat)<br>
+6. Jika semua kondisi di atas salah, berarti bilangan keempat (empat) yang paling besar.Jika benar maka isi variable "terbesar dengan bilangan keempat(empat)<br><br>
 
 <img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/8.png" width="700" style="border: 2px solid black;"/><br>
 7. Tampilkan nilai terbersar dari variable "terbersar"
@@ -68,31 +68,31 @@ KELAS   : TI.25 C.5
 
 <li><h3 style='font-weight:bold;'>Penjelasan Kode</h3></li>
 <img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/12.png" width="700" style="border: 2px solid black;"/><br>
-1. Menampilkan judul program ke layar.<br>
+1. Menampilkan judul program ke layar.<br><br>
 
 <img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/13.png" width="700" style="border: 2px solid black;"/><br>
-2. Meminta pengguna memasukkan empat bilangan bulat. Fungsi input() mengambil data dari pengguna. Fungsi int() mengubah input menjadi tipe data integer.<br>
+2. Meminta pengguna memasukkan empat bilangan bulat. Fungsi input() mengambil data dari pengguna. Fungsi int() mengubah input menjadi tipe data integer.<br><br>
 
 <img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/14.png" width="700" style="border: 2px solid black;"/><br>
-3. Menyimpan keempat bilangan dalam sebuah list bernama bilangan. List memudahkan manipulasi data secara indeks.<br>
+3. Menyimpan keempat bilangan dalam sebuah list bernama bilangan. List memudahkan manipulasi data secara indeks.<br><br>
 
 <img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/15.png" width="700" style="border: 2px solid black;"/><br>
-4. Berfungsi untuk pengkondisian jika elemen pertama lebih besar dari kedua, tukar posisi.<br>
+4. Berfungsi untuk pengkondisian jika elemen pertama lebih besar dari kedua, tukar posisi.<br><br>
 
 <img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/16.png" width="700" style="border: 2px solid black;"/><br>
-5. Berfungsi untuk pengkondisian jika elemen pertama lebih besar dari ketiga, tukar posisi.<br>
+5. Berfungsi untuk pengkondisian jika elemen pertama lebih besar dari ketiga, tukar posisi.<br><br>
 
 <img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/17.png" width="700" style="border: 2px solid black;"/><br>
-8. Berfungsi untuk pengkondisian jika elemen pertama lebih besar dari keempat, tukar posisi.<br>
+8. Berfungsi untuk pengkondisian jika elemen pertama lebih besar dari keempat, tukar posisi.<br><br>
 
 <img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/19.png" width="700" style="border: 2px solid black;"/><br>
-9. Berfungsi untuk pengkondisian jika elemen kedua lebih besar dari ketiga, tukar posisi.<br>
+9. Berfungsi untuk pengkondisian jika elemen kedua lebih besar dari ketiga, tukar posisi.<br><br>
 
 <img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/20.png" width="700" style="border: 2px solid black;"/><br>
-10. Berfungsi untuk pengkondisian jika elemen kedua lebih besar dari keempat, tukar posisi.<br>
+10. Berfungsi untuk pengkondisian jika elemen kedua lebih besar dari keempat, tukar posisi.<br><br>
 
 <img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/21.png" width="700" style="border: 2px solid black;"/><br>
-11. Berfungsi untuk pengkondisian jika elemen ketiga lebih besar dari keempat, tukar posisi.<br>
+11. Berfungsi untuk pengkondisian jika elemen ketiga lebih besar dari keempat, tukar posisi.<br><br>
 
 <img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/12.png" width="700" style="border: 2px solid black;"/><br>
 12. Berfungsi untuk menampilkan list bilangan yang sudah diurutkan.<br>
