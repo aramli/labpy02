@@ -173,7 +173,7 @@ KELAS   : TI.25 C.5
   
   <li><h3 style='font-weight:bold;'>Penjelasan Kode</h3></li>
   <img src="https://github.com/aramli/labpy02/raw/main/img/9.png" width="700" style="border: 2px solid black;"/><br>
-  1. Meminta pengguna memasukkan jumlah gaji.Kode input() mengambil data sebagai string, lalu int() mengubahnya menjadi bilangan bulat.<br><br>
+  1. Meminta pengguna memasukkan jumlah gaji. Kode input() mengambil data sebagai string, lalu int() mengubahnya menjadi bilangan bulat.<br><br>
   
   <img src="https://github.com/aramli/labpy02/raw/main/img/10.png" width="700" style="border: 2px solid black;"/><br>
   2. Menanyakan apakah sudah berkeluarga. Jika pengguna menjawab "Y", maka berkeluarga = True. Jika menjawab selain "Y" (misalnya "T"), maka berkeluarga = False.
