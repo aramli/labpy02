@@ -64,7 +64,7 @@ KELAS   : TI.25 C.5
 <li><h3 style='font-weight:bold;'>Program</h3></li>
 <img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/10.png" width="400" style="border: 2px solid black;"/>
 <li><h3 style='font-weight:bold;'>Hasil Program</h3></li>
-<img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/11.png" width="400" style="border: 2px solid black;"/>
+<img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/11.png" width="300" style="border: 2px solid black;"/>
 
 <li><h3 style='font-weight:bold;'>Penjelasan Kode</h3></li>
 <img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/12.png" width="700" style="border: 2px solid black;"/><br>
