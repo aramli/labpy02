@@ -146,7 +146,7 @@ KELAS   : TI.25 C.5
   <li><h3 style='font-weight:bold;'>Penjelasan Kode</h3></li>
 
   <img src="https://github.com/aramli/labpy02/raw/main/img/16.png" width="700" style="border: 2px solid black;"/><br>
-  1. Berfungsi sebagai inputan pengguna yang di simpan dalam beberapa variabel<br><br>
+  1 Berfungsi sebagai inputan pengguna yang di simpan dalam beberapa variabel.<br><br>
   
   <img src="https://github.com/aramli/labpy02/raw/main/img/3.png" width="700" style="border: 2px solid black;"/><br>
   2. Berfungsi untuk mengakumulasi nilai berdasarkan bobotnya. nilai dari setiap variabel di ubah type nya menjadi integer oleh 'int()'<br><br>
