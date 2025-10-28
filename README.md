@@ -100,6 +100,12 @@ KELAS   : TI.25 C.5
 </ul>
 </ul>
 
+# Latihan Looping
+
+# Latihan Praktikum 2
+# Program Tiket Bioskop
+# Program Kalkulator
+
 
 
 
