@@ -64,7 +64,7 @@ KELAS   : TI.25 C.5
 <li><h3 style='font-weight:bold;'>Program</h3></li>
 <img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/10.png" width="400" style="border: 2px solid black;"/>
 <li><h3 style='font-weight:bold;'>Hasil Program</h3></li>
-<img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/11.png" width="300" style="border: 2px solid black;"/>
+<img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/11.png" width="200" style="border: 2px solid black;"/>
 
 <li><h3 style='font-weight:bold;'>Penjelasan Kode</h3></li>
 <img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/12.png" width="700" style="border: 2px solid black;"/><br>
@@ -104,9 +104,9 @@ KELAS   : TI.25 C.5
 <ul>
 <ul>
   <li><h3 style='font-weight:bold;'>Latihan 1</h3></li>
-  <img src="https://github.com/aramli/labpy02/raw/main/perulangan/img/1.png" width="400" style="border: 2px solid black;"/>
+  <img src="https://github.com/aramli/labpy02/raw/main/perulangan/img/1.png" width="500" style="border: 2px solid black;"/>
   <li><h3 style='font-weight:bold;'>Program</h3></li>
-  <img src="https://github.com/aramli/labpy02/raw/main/perulangan/img/2.png" width="400" style="border: 2px solid black;"/>
+  <img src="https://github.com/aramli/labpy02/raw/main/perulangan/img/2.png" width="500" style="border: 2px solid black;"/>
   
   <li><h3 style='font-weight:bold;'>Penjelasan Kode</h3></li>
   <img src="https://github.com/aramli/labpy02/raw/main/perulangan/img/3.png" width="700" style="border: 2px solid black;"/><br>
