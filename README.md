@@ -104,8 +104,25 @@ KELAS   : TI.25 C.5
 <ul>
 <ul>
   <li><h3 style='font-weight:bold;'>Latihan 1</h3></li>
+  <img src="https://github.com/aramli/labpy02/raw/main/perulangan/img/1.png" width="400" style="border: 2px solid black;"/>
   <li><h3 style='font-weight:bold;'>Program</h3></li>
+  <img src="https://github.com/aramli/labpy02/raw/main/perulangan/img/2.png" width="400" style="border: 2px solid black;"/>
+  
   <li><h3 style='font-weight:bold;'>Penjelasan Kode</h3></li>
+  <img src="https://github.com/aramli/labpy02/raw/main/perulangan/img/3.png" width="700" style="border: 2px solid black;"/><br>
+  1. For berfungsi sebagai perulangan sebanyak 10 kali (dari baris = 0 hingga baris = 9).Setiap iterasi mewakili satu baris dalam output.<br><br>
+  
+  <img src="https://github.com/aramli/labpy02/raw/main/perulangan/img/4.png" width="700" style="border: 2px solid black;"/><br>
+  2. Variabel 'awal' merupakan nilai awal untuk baris tersebut (sama dengan nilai baris). Kemudian variabel 'akhir' adalah nilai terakhir yang akan dicetak di baris itu (10 angka setelah awal).Misal jika baris = 0 , maka awal = 0 akhir = 10 jadi akan mencetak angka 0 hingga 9. Misal jika baris = 1 , maka awal = 1 akhir = 11 jadi akan mencetak angka 1 hingga 10.
+.<br><br>
+  
+  <img src="https://github.com/aramli/labpy02/raw/main/perulangan/img/5.png" width="700" style="border: 2px solid black;"/><br>
+  3. Mencetak angka dari awal hingga akhir, Lalu end='   ' membuat angka-angka dicetak dalam satu baris dengan spasi antar angka.<br><br>
+  
+  <img src="https://github.com/aramli/labpy02/raw/main/perulangan/img/6.png" width="700" style="border: 2px solid black;"/><br>
+  4. Setelah mencetak 10 angka, pindah ke baris baru agar tampilan rapi.<br><br>
+
+  
 </ul>
 </ul>
 <ul>
@@ -115,6 +132,7 @@ KELAS   : TI.25 C.5
   <li><h3 style='font-weight:bold;'>Penjelasan Kode</h3></li>
 </ul>
 </ul>
+
 # Latihan Praktikum 2
 <ul>
 <ul>
