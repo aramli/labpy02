@@ -101,11 +101,63 @@ KELAS   : TI.25 C.5
 </ul>
 
 # Latihan Looping
-
+<ul>
+<ul>
+  <li><h3 style='font-weight:bold;'>Latihan 1</h3></li>
+  <li><h3 style='font-weight:bold;'>Program</h3></li>
+  <li><h3 style='font-weight:bold;'>Penjelasan Kode</h3></li>
+</ul>
+</ul>
+<ul>
+<ul>
+  <li><h3 style='font-weight:bold;'>Latihan 2</h3></li>
+  <li><h3 style='font-weight:bold;'>Program</h3></li>
+  <li><h3 style='font-weight:bold;'>Penjelasan Kode</h3></li>
+</ul>
+</ul>
 # Latihan Praktikum 2
-# Program Tiket Bioskop
-# Program Kalkulator
+<ul>
+<ul>
+  <li><h3 style='font-weight:bold;'>Latihan 1</h3></li>
+  <li><h3 style='font-weight:bold;'>Program</h3></li>
+  <li><h3 style='font-weight:bold;'>Penjelasan Kode</h3></li>
+</ul>
+</ul>
+<ul>
+<ul>
+  <li><h3 style='font-weight:bold;'>Latihan 1</h3></li>
+  <li><h3 style='font-weight:bold;'>Program</h3></li>
+  <li><h3 style='font-weight:bold;'>Penjelasan Kode</h3></li>
+</ul>
+</ul>
+<ul>
+<ul>
+  <li><h3 style='font-weight:bold;'>Latihan 1</h3></li>
+  <li><h3 style='font-weight:bold;'>Program</h3></li>
+  <li><h3 style='font-weight:bold;'>Penjelasan Kode</h3></li>
+</ul>
+</ul>
 
+# Program Tiket Bioskop
+<ul>
+<ul>
+  <li><h3 style='font-weight:bold;'>Flowcahrt</h3></li>
+  <li><h3 style='font-weight:bold;'>Program</h3></li>
+  <li><h3 style='font-weight:bold;'>Hasil Program</h3></li>
+  <li><h3 style='font-weight:bold;'>Penjelasan Kode</h3></li>
+</ul>
+</ul>
+<ul>
+
+# Program Kalkulator
+<ul>
+<ul>
+  <li><h3 style='font-weight:bold;'>Flowcahrt</h3></li>
+  <li><h3 style='font-weight:bold;'>Program</h3></li>
+  <li><h3 style='font-weight:bold;'>Hasil Program</h3></li>
+  <li><h3 style='font-weight:bold;'>Penjelasan Kode</h3></li>
+</ul>
+</ul>
 
 
 
