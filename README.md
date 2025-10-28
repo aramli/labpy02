@@ -5,24 +5,6 @@ NAMA    : Andi Ramli Hidayat <br>
 NIM     : 312510385 <br>
 KELAS   : TI.25 C.5
 
-# Daftar Laporan
-  <li><h5>Latihan Struktur Kondisi</h5></li>
-    <h6>1. Latihan 1<h6>
-    <h6>2. Latihan 2</h6>
-  <li><h5>Latihan Looping</h5></li>
-    <h6>1. Latihan 1<h6>
-    <h6>2. Latihan 2</h6>
-  <li><h5>Latihan Praktikum 2</h5></li>
-    <h6>1. Latihan 1<h6>
-    <h6>2. Latihan 2</h6>
-  <li><h5>Program Bioskop</h5></li>
-    <h6>1. Flowcahart<h6>
-    <h6>2. Kode Program</h6>
-  <li><h5>Program Kalkulator</h5></li>
-       <h6>1. Flowcahart<h6>
-    <h6>2. Kode Program</h6>
-
-
 # Latihan Struktur Kondisi
 
 <li><h3 style='font-weight:bold;'>Latihan 1</h3></li>
@@ -200,9 +182,18 @@ KELAS   : TI.25 C.5
 <li><h3 style='font-weight:bold;'>Latihan 3</h3></li>
 <ul>
 <ul>
-  <li><h3 style='font-weight:bold;'>Latihan 1</h3></li>
   <li><h3 style='font-weight:bold;'>Program</h3></li>
+   <img src="https://github.com/aramli/labpy02/raw/main/img/17.png" width="400" style="border: 2px solid black;"/>
+  <li><h3 style='font-weight:bold;'>Hasil Program</h3></li>
+  <img src="https://github.com/aramli/labpy02/raw/main/img/18.png" width="400" style="border: 2px solid black;"/>
+  
   <li><h3 style='font-weight:bold;'>Penjelasan Kode</h3></li>
+  <img src="https://github.com/aramli/labpy02/raw/main/img/19.png" width="700" style="border: 2px solid black;"/><br>
+  1. Variabel a , b dan c akan berisikan inputan yang akan di input pengguna dimana type nya di rubah menjadi integer<br><br>
+
+   <img src="https://github.com/aramli/labpy02/raw/main/img/19.png" width="700" style="border: 2px solid black;"/><br>
+  2. Pengondisian untuk membandingkan 3 input bilangan, dimana jika 2 bilangan hasil nya sama dengan bilangan lainnya makan akan menampilkan "BENAR". jika salah akan menampilkan "SALAH"<br><br>
+  
 </ul>
 </ul>
 
