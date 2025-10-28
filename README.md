@@ -145,16 +145,16 @@ KELAS   : TI.25 C.5
   <img src="https://github.com/aramli/labpy02/raw/main/img/2.png" width="400" style="border: 2px solid black;"/>
   <li><h3 style='font-weight:bold;'>Penjelasan Kode</h3></li>
 
-  <img src="https://github.com/aramli/labpy02/raw/main/img/3.png" width="700" style="border: 2px solid black;"/><br>
+  <img src="https://github.com/aramli/labpy02/raw/main/img/16.png" width="700" style="border: 2px solid black;"/><br>
   1. Berfungsi sebagai inputan pengguna yang di simpan dalam beberapa variabel<br><br>
   
-  <img src="https://github.com/aramli/labpy02/raw/main/img/4.png" width="700" style="border: 2px solid black;"/><br>
+  <img src="https://github.com/aramli/labpy02/raw/main/img/3.png" width="700" style="border: 2px solid black;"/><br>
   2. Berfungsi untuk mengakumulasi nilai berdasarkan bobotnya. nilai dari setiap variabel di ubah type nya menjadi integer oleh 'int()'<br><br>
   
-  <img src="https://github.com/aramli/labpy02/raw/main/img/5.png" width="700" style="border: 2px solid black;"/><br>
+  <img src="https://github.com/aramli/labpy02/raw/main/img/4.png" width="700" style="border: 2px solid black;"/><br>
   3. Berfungsi sebagai pengkondisian Menggunakan index boolean untuk memilih keterangan dengan kondisi jika akhir > 60.0, maka True → index 1 → "LULUS" Jika tidak, maka False → index 0 → "TIDAK LULUS"
 
-  <img src="https://github.com/aramli/labpy02/raw/main/img/6.png" width="700" style="border: 2px solid black;"/><br>
+  <img src="https://github.com/aramli/labpy02/raw/main/img/5.png" width="700" style="border: 2px solid black;"/><br>
   4. Berfungsi sebagai pengondisian untuk nilai huruf <br><br>
 
   <img src="https://github.com/aramli/labpy02/raw/main/img/6.png" width="700" style="border: 2px solid black;"/><br>
@@ -194,7 +194,7 @@ KELAS   : TI.25 C.5
   <img src="https://github.com/aramli/labpy02/raw/main/img/15.png" width="700" style="border: 2px solid black;"/><br>
   6. Kemudian kondisi selanjutnya untuk mempunyai rumah atau tidak, jika punya maka wajib bayar pajak, jika tidak maka tidak perlu bayar pajak<br><br>
 
-  <img src="https://github.com/aramli/labpy02/raw/main/img/16.png" width="700" style="border: 2px solid black;"/><br>
+  <img src="https://github.com/aramli/labpy02/raw/main/img/17.png" width="700" style="border: 2px solid black;"/><br>
   7. Jika gaji di bawah 3jt atau sama dengan 3jt maka dianggap belum UMR<br><br>
   
 </ul>
