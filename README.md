@@ -58,9 +58,11 @@ KELAS   : TI.25 C.5
 </ul>
 </ul>
 
-<li><h3 style='font-weight:bold;'>Latihan 1</h3></li>
+<li><h3 style='font-weight:bold;'>Latihan 2</h3></li>
 <ul>
   <ul>
+    <li><h3 style='font-weight:bold;'>Program</h3></li>
+    <li><h3 style='font-weight:bold;'>Hasil Program</h3></li>
   </ul>
 </ul>
 
