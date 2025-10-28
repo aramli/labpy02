@@ -101,11 +101,12 @@ KELAS   : TI.25 C.5
 </ul>
 
 # Latihan Looping
+<li><h3 style='font-weight:bold;'>Latihan 1</h3></li>
 <ul>
 <ul>
-  <li><h3 style='font-weight:bold;'>Latihan 1</h3></li>
-  <img src="https://github.com/aramli/labpy02/raw/main/perulangan/img/1.png" width="500" style="border: 2px solid black;"/>
   <li><h3 style='font-weight:bold;'>Program</h3></li>
+  <img src="https://github.com/aramli/labpy02/raw/main/perulangan/img/1.png" width="500" style="border: 2px solid black;"/>
+  <li><h3 style='font-weight:bold;'>Hasil Program</h3></li>
   <img src="https://github.com/aramli/labpy02/raw/main/perulangan/img/2.png" width="500" style="border: 2px solid black;"/>
   
   <li><h3 style='font-weight:bold;'>Penjelasan Kode</h3></li>
@@ -125,6 +126,7 @@ KELAS   : TI.25 C.5
   
 </ul>
 </ul>
+<li><h3 style='font-weight:bold;'>Latihan 2</h3></li>
 <ul>
 <ul>
   <li><h3 style='font-weight:bold;'>Latihan 2</h3></li>
@@ -134,51 +136,84 @@ KELAS   : TI.25 C.5
 </ul>
 
 # Latihan Praktikum 2
+<li><h3 style='font-weight:bold;'>Latihan 1</h3></li>
 <ul>
 <ul>
-  <li><h3 style='font-weight:bold;'>Latihan 1</h3></li>
-  <img src="https://github.com/aramli/labpy02/raw/main/img/1.png" width="400" style="border: 2px solid black;"/>
   <li><h3 style='font-weight:bold;'>Program</h3></li>
+  <img src="https://github.com/aramli/labpy02/raw/main/img/1.png" width="400" style="border: 2px solid black;"/>
+  <li><h3 style='font-weight:bold;'>Hasil Program</h3></li>
   <img src="https://github.com/aramli/labpy02/raw/main/img/2.png" width="400" style="border: 2px solid black;"/>
   <li><h3 style='font-weight:bold;'>Penjelasan Kode</h3></li>
 
-  <img src="https://github.com/aramli/labpy02/raw/main/perulangan/img/3.png" width="700" style="border: 2px solid black;"/><br>
-  1. For berfungsi sebagai perulangan sebanyak 10 kali (dari baris = 0 hingga baris = 9).Setiap iterasi mewakili satu baris dalam output.<br><br>
+  <img src="https://github.com/aramli/labpy02/raw/main/img/3.png" width="700" style="border: 2px solid black;"/><br>
+  1. Berfungsi sebagai inputan pengguna yang di simpan dalam beberapa variabel<br><br>
   
-  <img src="https://github.com/aramli/labpy02/raw/main/perulangan/img/4.png" width="700" style="border: 2px solid black;"/><br>
-  1. For berfungsi sebagai perulangan sebanyak 10 kali (dari baris = 0 hingga baris = 9).Setiap iterasi mewakili satu baris dalam output.<br><br>
+  <img src="https://github.com/aramli/labpy02/raw/main/img/4.png" width="700" style="border: 2px solid black;"/><br>
+  2. Berfungsi untuk mengakumulasi nilai berdasarkan bobotnya. nilai dari setiap variabel di ubah type nya menjadi integer oleh 'int()'<br><br>
   
-  <img src="https://github.com/aramli/labpy02/raw/main/perulangan/img/5.png" width="700" style="border: 2px solid black;"/><br>
-  1. For berfungsi sebagai perulangan sebanyak 10 kali (dari baris = 0 hingga baris = 9).Setiap iterasi mewakili satu baris dalam output.<br><br>
-  
-  <img src="https://github.com/aramli/labpy02/raw/main/perulangan/img/6.png" width="700" style="border: 2px solid black;"/><br>
-  1. For berfungsi sebagai perulangan sebanyak 10 kali (dari baris = 0 hingga baris = 9).Setiap iterasi mewakili satu baris dalam output.<br><br>
-  
-  <img src="https://github.com/aramli/labpy02/raw/main/perulangan/img/3.png" width="700" style="border: 2px solid black;"/><br>
-  1. For berfungsi sebagai perulangan sebanyak 10 kali (dari baris = 0 hingga baris = 9).Setiap iterasi mewakili satu baris dalam output.<br><br>
-  
-  <img src="https://github.com/aramli/labpy02/raw/main/perulangan/img/3.png" width="700" style="border: 2px solid black;"/><br>
-  1. For berfungsi sebagai perulangan sebanyak 10 kali (dari baris = 0 hingga baris = 9).Setiap iterasi mewakili satu baris dalam output.<br><br>
-  
-  <img src="https://github.com/aramli/labpy02/raw/main/perulangan/img/3.png" width="700" style="border: 2px solid black;"/><br>
-  1. For berfungsi sebagai perulangan sebanyak 10 kali (dari baris = 0 hingga baris = 9).Setiap iterasi mewakili satu baris dalam output.<br><br>
+  <img src="https://github.com/aramli/labpy02/raw/main/img/5.png" width="700" style="border: 2px solid black;"/><br>
+  3. Berfungsi sebagai pengkondisian Menggunakan index boolean untuk memilih keterangan dengan kondisi jika akhir > 60.0, maka True → index 1 → "LULUS" Jika tidak, maka False → index 0 → "TIDAK LULUS"
 
-  
+  <img src="https://github.com/aramli/labpy02/raw/main/img/6.png" width="700" style="border: 2px solid black;"/><br>
+  4. Berfungsi sebagai pengondisian untuk nilai huruf <br><br>
+
+  <img src="https://github.com/aramli/labpy02/raw/main/img/7.png" width="700" style="border: 2px solid black;"/><br>
+  5. Berfungsi untuk Menampilkan semua data hasil perhitungan ke layar.<br><br>
   
 </ul>
 </ul>
+
+<li><h3 style='font-weight:bold;'>Latihan 2</h3></li>
+<ul>
+<ul>
+  <li><h3 style='font-weight:bold;'>Program</h3></li>
+  <img src="https://github.com/aramli/labpy02/raw/main/img/8.png" width="400" style="border: 2px solid black;"/>
+  <li><h3 style='font-weight:bold;'>Hasil Program</h3></li>
+  <img src="https://github.com/aramli/labpy02/raw/main/img/9.png" width="400" style="border: 2px solid black;"/>
+  
+  <li><h3 style='font-weight:bold;'>Penjelasan Kode</h3></li>
+  <img src="https://github.com/aramli/labpy02/raw/main/img/10.png" width="700" style="border: 2px solid black;"/><br>
+  1. Meminta pengguna memasukkan jumlah gaji.Kode input() mengambil data sebagai string, lalu int() mengubahnya menjadi bilangan bulat.<br><br>
+  
+  <img src="https://github.com/aramli/labpy02/raw/main/img/11.png" width="700" style="border: 2px solid black;"/><br>
+  2. Menanyakan apakah sudah berkeluarga. Jika pengguna menjawab "Y", maka berkeluarga = True. Jika menjawab selain "Y" (misalnya "T"), maka berkeluarga = False.
+<br><br>
+  
+  <img src="https://github.com/aramli/labpy02/raw/main/img/12.png" width="700" style="border: 2px solid black;"/><br>
+  3. Menanyakan apakah mempunyai rumah. Jika pengguna menjawab "Y", maka punya_rumah = True. Jika menjawab selain "Y" (misalnya "T"), punya_rumah = False.<br><br>
+  
+  <img src="https://github.com/aramli/labpy02/raw/main/img/13.png" width="700" style="border: 2px solid black;"/><br>
+  3. Menanyakan apakah mempunyai rumah. Jika pengguna menjawab "Y", maka punya_rumah = True. Jika menjawab selain "Y" (misalnya "T"), punya_rumah = False.<br><br>
+  
+  <img src="https://github.com/aramli/labpy02/raw/main/img/14.png" width="700" style="border: 2px solid black;"/><br>
+  4. Pengondisian jika gaji lebih dari 3jt maka dianggap diatas UMR<br><br>
+  
+  <img src="https://github.com/aramli/labpy02/raw/main/img/15.png" width="700" style="border: 2px solid black;"/><br>
+  5. Kemudian kondisi selanjutnya untuk menentukan bila bekerluarga maka wajib ikut asurasi, jika belum maka tidak perlu ikut asurasi. <br><br>
+  
+  <img src="https://github.com/aramli/labpy02/raw/main/img/16.png" width="700" style="border: 2px solid black;"/><br>
+  6. Kemudian kondisi selanjutnya untuk mempunyai rumah atau tidak, jika punya maka wajib bayar pajak, jika tidak maka tidak perlu bayar pajak<br><br>
+
+  <img src="https://github.com/aramli/labpy02/raw/main/img/17.png" width="700" style="border: 2px solid black;"/><br>
+  7. Jika gaji di bawah 3jt atau sama dengan 3jt maka dianggap belum UMR<br><br>
+  
+</ul>
+</ul>
+
+<li><h3 style='font-weight:bold;'>Latihan 3</h3></li>
 <ul>
 <ul>
   <li><h3 style='font-weight:bold;'>Latihan 1</h3></li>
   <li><h3 style='font-weight:bold;'>Program</h3></li>
   <li><h3 style='font-weight:bold;'>Penjelasan Kode</h3></li>
-</ul>
-</ul>
-<ul>
-<ul>
-  <li><h3 style='font-weight:bold;'>Latihan 1</h3></li>
-  <li><h3 style='font-weight:bold;'>Program</h3></li>
-  <li><h3 style='font-weight:bold;'>Penjelasan Kode</h3></li>
+  <img src="https://github.com/aramli/labpy02/raw/main/img/3.png" width="700" style="border: 2px solid black;"/><br>
+  1. Berfungsi sebagai inputan pengguna yang di simpan dalam beberapa variabel<br><br>
+  
+  <img src="https://github.com/aramli/labpy02/raw/main/img/3.png" width="700" style="border: 2px solid black;"/><br>
+  1. Berfungsi untuk mengakumulasi nilai berdasarkan bobotnya. nilai dari setiap variabel di ubah type nya menjadi integer oleh 'int()'<br><br>
+  
+  <img src="https://github.com/aramli/labpy02/raw/main/img/3.png" width="700" style="border: 2px solid black;"/><br>
+  1. For berfungsi sebagai perulangan sebanyak 10 kali (dari baris = 0 hingga baris = 9).Setiap iterasi mewakili satu baris dalam output.<br><br>
 </ul>
 </ul>
 
