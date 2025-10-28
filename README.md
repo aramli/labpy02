@@ -197,7 +197,7 @@ KELAS   : TI.25 C.5
 </ul>
 </ul>
 
-# Program Tiket Bioskop
+# Tugas Praktikum 1 Program Tiket Bioskop
 <ul>
 <ul>
   <li><h3 style='font-weight:bold;'>Flowcahrt</h3></li>
@@ -208,13 +208,24 @@ KELAS   : TI.25 C.5
 </ul>
 <ul>
 
-# Program Kalkulator
+# Trugas Praktikum 2 Program Kalkulator
 <ul>
 <ul>
   <li><h3 style='font-weight:bold;'>Flowcahrt</h3></li>
   <li><h3 style='font-weight:bold;'>Program</h3></li>
+  <img src="https://github.com/aramli/labpy02/raw/main/img/20.png" width="400" style="border: 2px solid black;"/>
   <li><h3 style='font-weight:bold;'>Hasil Program</h3></li>
+  <img src="https://github.com/aramli/labpy02/raw/main/img/21.png" width="400" style="border: 2px solid black;"/>
+  
   <li><h3 style='font-weight:bold;'>Penjelasan Kode</h3></li>
+   <img src="https://github.com/aramli/labpy02/raw/main/img/22.png" width="700" style="border: 2px solid black;"/><br>
+  1. Menampilkan judul dan meminta pengguna untuk memasukan 2 bilangan bulat<br><br>
+
+  <img src="https://github.com/aramli/labpy02/raw/main/img/23.png" width="700" style="border: 2px solid black;"/><br>
+  2. Menampilkan opsi operasi yang akan digunakan dengan string multi line. kemudian meminta pengguna untuk menginputkan pilihan operasi dengan pilihan 1-4<br><br>
+
+   <img src="https://github.com/aramli/labpy02/raw/main/img/23.png" width="700" style="border: 2px solid black;"/><br>
+  3. Pengondisian untuk pengechekan operator apa yang di pilih kemudian meng eksekusi sesuai operator pilihan nya. lalu menampilkan hasil dari operasi tersebut<br><br>
 </ul>
 </ul>
 
