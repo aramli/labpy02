@@ -62,7 +62,22 @@ KELAS   : TI.25 C.5
 <ul>
   <ul>
     <li><h3 style='font-weight:bold;'>Program</h3></li>
+    <img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/10.png" width="400" style="border: 2px solid black;"/>
     <li><h3 style='font-weight:bold;'>Hasil Program</h3></li>
+    <img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/11.png" width="400" style="border: 2px solid black;"/>
+
+    <li><h3 style='font-weight:bold;'>Penjelasan Kode</h3></li>
+    <img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/12.png" width="700" style="border: 2px solid black;"/> <br>
+    <img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/13.png" width="700" style="border: 2px solid black;"/> <br>
+    <img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/14.png" width="700" style="border: 2px solid black;"/> <br>
+    <img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/15.png" width="700" style="border: 2px solid black;"/> <br>
+    <img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/16.png" width="700" style="border: 2px solid black;"/> <br>
+    <img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/17.png" width="700" style="border: 2px solid black;"/> <br>
+    <img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/18.png" width="700" style="border: 2px solid black;"/> <br>
+    <img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/19.png" width="700" style="border: 2px solid black;"/> <br>
+    <img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/20.png" width="700" style="border: 2px solid black;"/> <br>
+    <img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/21.png" width="700" style="border: 2px solid black;"/> <br>
+    <img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/12.png" width="700" style="border: 2px solid black;"/> <br>
   </ul>
 </ul>
 
