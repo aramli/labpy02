@@ -64,13 +64,13 @@ KELAS   : TI.25 C.5
 <li><h3 style='font-weight:bold;'>Program</h3></li>
 <img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/10.png" width="400" style="border: 2px solid black;"/>
 <li><h3 style='font-weight:bold;'>Hasil Program</h3></li>
-<img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/11.png" width="200" style="border: 2px solid black;"/>
+<img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/11.png" width="400" style="border: 2px solid black;"/>
 
 <li><h3 style='font-weight:bold;'>Penjelasan Kode</h3></li>
 <img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/12.png" width="700" style="border: 2px solid black;"/><br>
 1. Menampilkan judul program ke layar.<br><br>
 
-<img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/13.png" width="700" style="border: 2px solid black;"/><br>
+<img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/13.png" width="500" style="border: 2px solid black;"/><br>
 2. Meminta pengguna memasukkan empat bilangan bulat. Fungsi input() mengambil data dari pengguna. Fungsi int() mengubah input menjadi tipe data integer.<br><br>
 
 <img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/14.png" width="700" style="border: 2px solid black;"/><br>
