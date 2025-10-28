@@ -61,24 +61,36 @@ KELAS   : TI.25 C.5
 <li><h3 style='font-weight:bold;'>Latihan 2</h3></li>
 <ul>
   <ul>
-    <li><h3 style='font-weight:bold;'>Program</h3></li>
-    <img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/10.png" width="400" style="border: 2px solid black;"/>
-    <li><h3 style='font-weight:bold;'>Hasil Program</h3></li>
-    <img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/11.png" width="400" style="border: 2px solid black;"/>
+<li><h3 style='font-weight:bold;'>Program</h3></li>
+<img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/10.png" width="400" style="border: 2px solid black;"/>
+<li><h3 style='font-weight:bold;'>Hasil Program</h3></li>
+<img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/11.png" width="400" style="border: 2px solid black;"/>
 
-    <li><h3 style='font-weight:bold;'>Penjelasan Kode</h3></li>
-    <img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/12.png" width="700" style="border: 2px solid black;"/> <br>
-    <img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/13.png" width="700" style="border: 2px solid black;"/> <br>
-    <img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/14.png" width="700" style="border: 2px solid black;"/> <br>
-    <img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/15.png" width="700" style="border: 2px solid black;"/> <br>
-    <img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/16.png" width="700" style="border: 2px solid black;"/> <br>
-    <img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/17.png" width="700" style="border: 2px solid black;"/> <br>
-    <img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/18.png" width="700" style="border: 2px solid black;"/> <br>
-    <img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/19.png" width="700" style="border: 2px solid black;"/> <br>
-    <img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/20.png" width="700" style="border: 2px solid black;"/> <br>
-    <img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/21.png" width="700" style="border: 2px solid black;"/> <br>
-    <img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/12.png" width="700" style="border: 2px solid black;"/> <br>
-  </ul>
+<li><h3 style='font-weight:bold;'>Penjelasan Kode</h3></li>
+<img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/12.png" width="700" style="border: 2px solid black;"/><br>
+1. Menampilkan judul program ke layar.<br>
+<img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/13.png" width="700" style="border: 2px solid black;"/><br>
+2. Meminta pengguna memasukkan empat bilangan bulat. Fungsi input() mengambil data dari pengguna. Fungsi int() mengubah input menjadi tipe data integer.<br>
+<img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/14.png" width="700" style="border: 2px solid black;"/><br>
+3. Menyimpan keempat bilangan dalam sebuah list bernama bilangan. List memudahkan manipulasi data secara indeks.<br>
+<img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/15.png" width="700" style="border: 2px solid black;"/><br>
+4. Berfungsi untuk pengkondisian jika elemen pertama lebih besar dari kedua, tukar posisi.
+<img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/16.png" width="700" style="border: 2px solid black;"/><br>
+5. 
+<img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/17.png" width="700" style="border: 2px solid black;"/><br>
+6.
+<img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/18.png" width="700" style="border: 2px solid black;"/><br>
+7.
+<img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/19.png" width="700" style="border: 2px solid black;"/><br>
+8.
+<img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/20.png" width="700" style="border: 2px solid black;"/><br>
+9.
+<img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/21.png" width="700" style="border: 2px solid black;"/><br>
+10.
+<img src="https://github.com/aramli/labpy02/raw/main/kondisi_if/img/12.png" width="700" style="border: 2px solid black;"/><br>
+11. Berfungsi untuk menampilkan list bilangan yang sudah diurutkan.
+
+</ul>
 </ul>
 
 
